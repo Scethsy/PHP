@@ -17,5 +17,5 @@
 ?>
 
 <html>
-    <link rel="stylesheet" href="./styles/global.css" />
+    <link rel="stylesheet" href="./components/global.css" />
 </html>
