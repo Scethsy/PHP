@@ -7,6 +7,10 @@ p {
   color: red;
 }
 
+p:hover {
+  color: yellow;
+}
+
 .blue-color {
   color: blue;
   font-weight: 700;
