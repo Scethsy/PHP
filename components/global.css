@@ -1,13 +1,15 @@
 /* This is my global css */
-html {
-  color: red;
-}
-
-p {
-  color: red;
-}
-
 .blue-color {
   color: blue;
+  font-weight: 700;
+}
+
+.red-color {
+  color: red;
+  font-weight: 700;
+}
+
+.blueviolet-color {
+  color:blueviolet;
   font-weight: 700;
 }

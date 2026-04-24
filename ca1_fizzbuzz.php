@@ -3,11 +3,11 @@
     $n = 20;
     for ($i = 1; $i <= $n; $i++) {
         if ($i%3 == 0 && $i%5 == 0) { //FizzBuzz
-            echo "FizzBuzz <br>";
+            echo "<span class=\"blueviolet-color\">FizzBuzz</span> <br>";
         } else if ($i%3 == 0) { //Fizz
-            echo "<span class=\"blue-font\">Fizz</span> <br>";   
+            echo "<span class=\"blue-color\">Fizz</span> <br>";   
         } else if ($i%5 == 0) { //Buzz
-            echo "Buzz <br>";
+            echo "<span class=\"red-color\">Buzz</span> <br>";
         } else {
             echo "$i <br>";
         }
