@@ -15,3 +15,7 @@
 
     include("./components/studname.php");
 ?>
+
+<html>
+    <link rel="stylesheet" href="./styles/global.css" />
+</html>
