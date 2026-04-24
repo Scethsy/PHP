@@ -1,4 +1,19 @@
 /* This is my global css */
+<<<<<<< HEAD
+=======
+html {
+  color: red;
+}
+
+p {
+  color: red;
+}
+
+p:hover {
+  color: yellow;
+}
+
+>>>>>>> a8a9fd967f236f39b891f8bc24907dd2d87a05b5
 .blue-color {
   color: blue;
   font-weight: 700;
