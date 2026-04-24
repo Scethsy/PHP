@@ -5,7 +5,7 @@
         if ($i%3 == 0 && $i%5 == 0) { //FizzBuzz
             echo "FizzBuzz <br>";
         } else if ($i%3 == 0) { //Fizz
-            echo "<span class="blue-font">Fizz</span> <br>";   
+            echo "<span class=\"blue-font\">Fizz</span> <br>";   
         } else if ($i%5 == 0) { //Buzz
             echo "Buzz <br>";
         } else {
